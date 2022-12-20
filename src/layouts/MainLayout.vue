@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          PKzin to stroong
+          PKzin to strong
         </q-toolbar-title>
 
         <div>THE BEST PLAYER</div>
